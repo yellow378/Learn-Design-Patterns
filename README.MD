@@ -3,9 +3,17 @@
 - https://design-patterns.readthedocs.io/zh-cn/latest/
  
 ### creational
-  1. simple factory
-  2. factory method
-  3. abstarct factory
-  4. singleton
-  5. prototype
-  6. builder
+  1. Simple Factory
+  2. Factory Method
+  3. Abstract Factory
+  4. Singleton
+  5. Prototype
+  6. Builder
+### structural
+  1. Adapter
+  2. Bridge
+  3. Composite
+  4. Decorator
+  5. Facade
+  6. Flyweight
+  7. Proxy
